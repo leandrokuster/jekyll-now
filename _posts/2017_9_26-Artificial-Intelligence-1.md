@@ -1,4 +1,7 @@
-##Artificial Intelligence University Course, ZHAW
+---
+layout: post
+title: Artificial Intelligence University Course, ZHAW
+---
 
 ### Assignment 1: My thoughts and current point of view
 
