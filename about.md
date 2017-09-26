@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my github blog about the topic of Artificial Intelligence. 
 
-### More Information
+### Who am I?
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a student currently in my 5th semester studying towards a bacherlor degree in computer sciences. 
+
+### About this blog
+I took the a lecture on the topic of artificial intelligence (A.I.) in which we got the task to create a blog. The main reason is so that we can write down our view on A.I. at the beginning of the semester and then come back at the end to compare it. 
+
+If I feel like it, and find the time, I might also make some posts about the topics we are discussing. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:kustelea@students.zhaw.ch)
