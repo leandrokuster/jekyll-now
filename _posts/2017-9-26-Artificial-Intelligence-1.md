@@ -7,8 +7,9 @@ title: Artificial Intelligence University Course, ZHAW
 
 In the course of studying for my bachelor degree I took a two-class-course in artificial Intelligence (A.I.). For our first assignment, and as a small step in, we received the task to read through two articles (I'll provide the links below) revolving around the subject, to form our own thoughts, questions and vision and write these down in a blog so that we can review them at the end of the course. The goal being that we can compare how our views will change over the course of the semester.
 
-* https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
-* https://www.researchgate.net/publication/292364628_Cognitive_Orthoses_Toward_Human-Centered_AI
+* [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+* [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+* [https://www.researchgate.net/publication/292364628_Cognitive_Orthoses_Toward_Human-Centered_AI](https://www.researchgate.net/publication/292364628_Cognitive_Orthoses_Toward_Human-Centered_AI)
 
 The topic of A.I. has always been one of great interest for me. Thus most of the topics handled in the articles wasn't news to me. Even though they did provide some new and interesting views to me. 
 A.I. is and has been throughout its history a very controversial topic. I am personally in the rather optimistic corner. A.I., when it emerges, will be the technology which will bring the largest change to our society. 
